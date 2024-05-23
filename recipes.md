@@ -113,3 +113,15 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Outmeal
+
+Ingredients
+- 1 cup of outmeal 
+-1 1/2 cup of water 
+
+Instructions:
+1. Bring the water to boil in a small saucer
+2. Add the outmeal 
+3. Reduce fire. 
+4. Serve
